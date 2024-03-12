@@ -1,0 +1,13 @@
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.registration-form .create-account.btn-delete {
+  background-color: #ff5767;
+}
+
+a:active {
+  color: #212529;
+}

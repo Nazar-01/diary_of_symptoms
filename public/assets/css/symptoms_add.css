@@ -1,0 +1,9 @@
+.registration-form form {
+  max-width: 100%;
+}
+
+.form-select {
+  border-radius: 20px;
+  padding: 10px 20px;
+  color: #495057;
+}
